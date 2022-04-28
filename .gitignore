@@ -22,7 +22,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-spring-cloud-config-server/.mvn/wrapper/maven-wrapper.jar
+
+
 
 ##############################
 ## Gradle
